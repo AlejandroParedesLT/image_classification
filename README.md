@@ -14,8 +14,6 @@ The model is trained on the Places365 dataset considering only 5 classes:
 - `bar`
 - `music_studio`
 
-![alt text](https://github.com/AlejandroParedesLT/image_classification/blob/main/accuracy_image_classification_vgg16png.png?raw=true)
-
 ![alt text](https://github.com/AlejandroParedesLT/image_classification/blob/main/image_classification.png?raw=true)
 
 
@@ -24,7 +22,7 @@ The model is trained on the Places365 dataset considering only 5 classes:
 
 ![alt text](https://github.com/AlejandroParedesLT/image_classification/blob/main/image_classification.JPG?raw=true)
 
-
+![alt text](https://github.com/AlejandroParedesLT/image_classification/blob/main/accuracy_image_classification_vgg16png.png?raw=true)
 ## Model Architecture
 
 ### ResNet50 Architecture:
